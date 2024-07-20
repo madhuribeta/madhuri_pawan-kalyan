@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pawan Kalyan Profile</title>
+</head>
+<body>
+    <div style="text-align: center; max-width: 600px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 8px;">
+        <img src="pawan_kalyan.jpg" alt="Pawan Kalyan" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+        <h1>Pawan Kalyan</h1>
+        <p>Actor, Politician</p>
+        <p>Pawan Kalyan, born Konidela Kalyan Babu, is an Indian actor, politician, and film producer. He works predominantly in Telugu cinema and is the younger brother of popular actor Chiranjeevi. Kalyan made his acting debut in 1996 with the film "Akkada Ammayi Ikkada Abbayi" and gained widespread recognition with his performance in the 1998 film "Tholi Prema", which won the National Film Award for Best Feature Film in Telugu.</p>
+        <p>Besides his acting career, Pawan Kalyan founded the Jana Sena Party in March 2014 and has been actively involved in politics since then. He is known for his philanthropic activities and his efforts to address social issues.</p>
+    </div>
+</body>
+</html>
